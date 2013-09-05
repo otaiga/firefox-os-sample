@@ -1,0 +1,12 @@
+{
+    "version": "1",
+    "name": "sample_app",
+    "launch_path": "index.html",
+    "description": "Just a simple hellow world",
+    "icons": {
+        "128": "images/logo128.png"
+    },
+    "developer": {
+        "name": "Karl Turner"
+    }
+}
